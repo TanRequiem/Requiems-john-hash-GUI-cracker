@@ -30,4 +30,4 @@ Happy cracking!
 
 # This is what the application will/should look like, i will add a watermark when i upload the application
 Note to viewer: some code will most likely end up obfuscated to be made as a Validation check to make sure the application is vailid and it was downloaded from the correct sources.
-![Image of application](Screenshot from 2026-04-10 09-49-26.png)
+![Image of application](https://github.com/TanRequiem/Requiems-john-hash-GUI-cracker/blob/main/Screenshot%20from%202026-04-10%2009-49-26.png)
