@@ -14,14 +14,14 @@ The Prototype: This began as a Python script. I used Claude AI to help generate 
 
 The Transition to C++: I moved the project to C++ to improve performance, get away from Python's occasional "bugginess" in GUI handling, and—most importantly—to learn the language.
 
-AI Attribution: While I directed the architecture and flow, I want to be 100% transparent: this code was AI-assisted. I didn't just copy-paste the C++ code; I worked through it to understand the "why" behind the syntax, focusing heavily on debugging and logic transition.
+AI Attribution: While I directed the architecture and flow, I want to be 100% transparent: this code was AI-assisted. I didn't just copy-paste the C++ code specifically, the python code i did; I worked through it to understand the "why" behind the syntax, focusing heavily on debugging and logic transition.
 
 ## Contributions & Learning
 I’m still learning! This project represents weeks of building something from the ground up with limited prior knowledge.
 
 Find a bug? If something isn't working or you see a way to optimize the C++ logic, please open a Pull Request.
 
-Let's Collaborate: I’m always looking to learn how to make code more efficient and secure. I’ll likely use your feedback to jump back into a session with Claude to figure out the best way to implement your suggestions.
+Collaboration: I’m always looking to learn how to make code more efficient and secure. I’ll likely use your feedback to jump back into a session with Claude to figure out the best way to implement your suggestions.
 
 ### and because i'm antisocial and somewhat autistic, Comunication skills isn't something i'm good at, so i had Gemini's help writing out this Readme.
 
