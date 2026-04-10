@@ -1,27 +1,29 @@
-# Requiems-john-hash-GUI-cracker
+# Requiems-John-Hash-GUI-Cracker
+## Disclaimer & Legal Agreement
+This tool was created for legal, educational, and authorized security testing purposes. By using this software, you agree to the following terms:
 
-## Disclaimer & Legal Agreement.
-This tool was made for legal, educational, and authorized Security testing purposes. By Using this software, you agree to the following terms:
+Lawful Use Only: You will NOT use this tool for any illegal or malicious activities, including unauthorized access to systems, phishing, or data theft.
 
-- You will NOT use this tool for any illegal for malicious activites, including: unauthorized Access to systems, phishing, or Data Theft
+Liability: The end-user assumes all responsibility for their actions. The author is not liable for any misuse, damages, or legal consequences resulting from the use of this software.
 
-- The end user assumes all Responsability for their actions and the author is not liable for any misuse, damages, or legal consequences Resulting from the use of this software.
+## Project Overview
+Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team and evolved into a full C++ GUI application. The goal is to provide a streamlined, user-friendly interface for Hashcat and John the Ripper, making password security auditing more accessible. Note to the Installer: You WILL need hashcat and john downloaded untill we implement our own hash and password cracker. or the creaters of the tool help me to implement them straight into the system!.
 
-## Project overview
+## The Dev Journey
+The Prototype: This began as a Python script. I used Claude AI to help generate the initial logic and prototype the features quickly. I've included the original Python version in this repo for those interested in the evolution.
 
-hi, Tanner here, This idea was originaly made as a utility tool for my Cyberleage team, this project evolved into a Full C++ Gui application. the goal was to provide a streamlined GUI for hashcat and john the ripper (Password Security Auditing)
+The Transition to C++: I moved the project to C++ to improve performance, get away from Python's occasional "bugginess" in GUI handling, and—most importantly—to learn the language.
 
-## Dev jurney
+AI Attribution: While I directed the architecture and flow, I want to be 100% transparent: this code was AI-assisted. I didn't just copy-paste the C++ code; I worked through it to understand the "why" behind the syntax, focusing heavily on debugging and logic transition.
 
-- process: This application began its live/alpha stage as a python script prototype generated with the assistance of Claude AI. i had it generate and also help me through The C++ coding but i did NOT copy and paste the C++ code but i did for the python because i wanted to get it to somewhere i liked (I will still upload both versions)
+## Contributions & Learning
+I’m still learning! This project represents weeks of building something from the ground up with limited prior knowledge.
 
-- Evolution: With the help of claude, i refined the logic into C++ to improve performance, learn the inticracies of the language, and to get python to not be so buggy
+Find a bug? If something isn't working or you see a way to optimize the C++ logic, please open a Pull Request.
 
-- Attribution: While i did direct the flow and architecture of this application, i do not take full responsability for writing and i will be transparent this code was ai generated/assisted, i mostly focused on learning, debugging, and the transition from python to C++ when it got to a application i like
+Let's Collaborate: I’m always looking to learn how to make code more efficient and secure. I’ll likely use your feedback to jump back into a session with Claude to figure out the best way to implement your suggestions.
 
-## Controbution
+## and because i'm antisocial and somewhat autistic,Comunication skills isn't something i'm good at, so i had Gemini's help writing out this Readme.
 
-I am still learning, this project represents a few days/weeks of trying to make something from nothing (limited knowledge) so if you find a bug or have a suggestion for optimization lplease feel free to open a pull Request and i'll work with people or ask Claude AI what the best course of implementation this will be. i Genuienly enjoy learning how to make code more efficient and Secure, and how to write/optimize it.
-
-Happy cracking! 
-tanner
+Happy cracking!
+— Tanner
