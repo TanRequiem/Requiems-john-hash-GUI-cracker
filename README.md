@@ -2,7 +2,7 @@
 
 ## Disclaimer & Legal Agreement
 
-This tool was created for educational and authorized security testing purposes. By using this software you agree to use it in a way.
+This tool was created for educational and authorized security testing purposes. By using this software you agree to The Terms and Conditions
 
 Here are the terms:
 
