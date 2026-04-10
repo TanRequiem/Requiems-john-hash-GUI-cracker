@@ -6,6 +6,8 @@ This tool was created for legal, educational, and authorized security testing pu
 
 - Liability: The end-user assumes all responsibility for their actions. The author is not liable for any misuse, damages, or legal consequences resulting from the use of this software.
 
+- Non-Commercial Use: This application is strictly for personal, educational, or internal security testing. It is not to be sold, licensed, or redistributed for personal or corporate profit.
+
 ## Project Overview
 Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team and evolved into a full C++ GUI application. The goal is to provide a streamlined, user-friendly interface for Hashcat and John the Ripper, making password security auditing more accessible.
 
@@ -29,5 +31,5 @@ Happy cracking!
 — Tanner
 
 # This is what the application will/should look like, i will add a watermark when i upload the application
-Note to viewer: some code will most likely end up obfuscated to be made as a Validation check to make sure the application is vailid and it was downloaded from the correct sources.
+Note to viewer: some code will most likely end up obfuscated to be made as a Validation check to make sure the application is vailid and it was downloaded from the correct sources. Please be advised, if you get a warning, you have the incorrect version installed and most likely have a virus.
 ![Image of application](https://github.com/TanRequiem/Requiems-john-hash-GUI-cracker/blob/main/Screenshot%20from%202026-04-10%2009-49-26.png)
