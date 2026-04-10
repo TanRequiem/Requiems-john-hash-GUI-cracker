@@ -1,0 +1,57 @@
+# Requiem Non-Commercial Open Testing License 1.0 (RNOTL-1.0)
+
+Copyright (c) 2026 TanRequiem ("Author")
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, and distribute copies of the Software, subject
+to the following conditions:
+
+## 1. Permitted Use and Purpose Restriction
+The Software is provided exclusively for legal, educational, and authorized 
+security testing purposes. You may not use the Software for any malicious, 
+unlawful, or unauthorized activity.
+
+## 2. Non-Commercial License
+This is a strictly non-commercial license. You may not:
+    a) Sell, lease, license, sublicense, or otherwise commercially exploit the 
+       Software in its original form.
+    b) Integrate the Software (or any derivative work thereof) into any product, 
+       service, or platform for which a fee is charged or revenue is generated.
+    c) Offer the Software as a "Software-as-a-Service" (SaaS).
+
+## 3. Derivative Works and Rebranding
+You may modify and create derivative works of the Software. However, you may not 
+modify, "re-skin," obfuscate, or adapt the Software for the purpose of circumventing 
+Section 2 (Non-Commercial Use). Any derivative work that is substantially based 
+on the Software must remain subject to the terms of this License and must be made 
+available free of charge to the community.
+
+## 4. Attribution
+All copies, forks, or substantial portions of the Software must retain the above 
+copyright notice, this list of conditions, and the following acknowledgment in 
+the user interface or documentation (if provided):
+
+    "Based on original work by Tan Requiem."
+
+## 5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+## 6. Indemnification
+You agree to indemnify, defend, and hold harmless the Author from and against 
+any and all claims, damages, obligations, losses, liabilities, costs, or debt, 
+and expenses (including but not limited to attorney's fees) arising from: 
+(i) your use and access of the Software; (ii) your violation of any term of 
+this License; or (iii) your violation of any third party right, including 
+without limitation any copyright, property, or privacy right.
+
+## 7. Termination
+This License and the rights granted hereunder will terminate automatically if 
+you fail to comply with any term herein. Upon termination, you must cease all 
+use and destroy all copies of the Software in your possession.
