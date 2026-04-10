@@ -27,3 +27,7 @@ And because I'm antisocial and somewhat autistic, communication skills isn't som
 
 Happy cracking!
 — Tanner
+
+# This is what the application will/should look like, i will add a watermark when i upload the application
+Note to viewer: some code will most likely end up obfuscated to be made as a Validation check to make sure the application is vailid and it was downloaded from the correct sources.
+![Image of application](Screenshot from 2026-04-10 09-49-26.png)
