@@ -1,14 +1,12 @@
 # Requiems-John-Hash-GUI-Cracker
 ## Disclaimer & Legal Agreement
-This tool was created for legal, educational, and authorized security testing purposes. By using/Downloading this software, you agree to the following terms:
+This tool was created for legal, educational, and authorized security testing purposes. By using this software, you agree to the terms laid out in the LICENSE file, including:
 
-- Lawful Use Only: You will NOT use this tool for any illegal or malicious activities, including unauthorized access to systems, phishing, or data theft.
+* **Lawful Use Only:** You will NOT use this tool for any illegal or malicious activities.
+* **Non-Commercial:** This application is strictly for non-profit use. It may not be sold or redistributed for profit by individuals or companies.
+* **Liability:** The end-user assumes all responsibility. The author is not liable for any misuse or legal consequences.
 
-- Liability: The end-user assumes all responsibility for their actions. The author is not liable for any misuse, damages, or legal consequences resulting from the use of this software.
-
-- Non-Commercial Use: This application is strictly for personal, educational, or internal security testing. It is not to be sold, licensed, or redistributed for personal or corporate profit.
-
-- No Resale via Modification: Companies and individuals may not edit, "re-skin," or modify this code for the purpose of reselling it or bypassing the non-commercial clause. This software and its derivatives must remain free and accessible.
+For full legal terms, please refer to the [LICENSE](./LICENSE) file in this repository.
 
 ## Project Overview
 Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team and evolved into a full C++ GUI application. The goal is to provide a streamlined, user-friendly interface for Hashcat and John the Ripper, making password security auditing more accessible.
