@@ -8,6 +8,8 @@ This tool was created for legal, educational, and authorized security testing pu
 
 - Non-Commercial Use: This application is strictly for personal, educational, or internal security testing. It is not to be sold, licensed, or redistributed for personal or corporate profit.
 
+- No Resale via Modification: Companies and individuals may not edit, "re-skin," or modify this code for the purpose of reselling it or bypassing the non-commercial clause. This software and its derivatives must remain free and accessible.
+
 ## Project Overview
 Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team and evolved into a full C++ GUI application. The goal is to provide a streamlined, user-friendly interface for Hashcat and John the Ripper, making password security auditing more accessible.
 
