@@ -2,7 +2,7 @@
 
 Please understand i wrote this for legal, educational, and security testing purposes
 
-by using this tool agree to the terms and conditions that it will not be used for any Illegal, or malicious activiities, including but not limited to: Unauthorized access to systems or data, phishing or scamming, using this is to crack stolen passwords.
+by using this tool. the end user agrees to the terms and conditions. that this tool will not be used for any Illegal, or malicious activiities, including but not limited to: Unauthorized access to systems or data, phishing or scamming, stolen passwords.
 
 The Author is not liable for any misuse, damages, or legal consequences resulting from the use of this software and all responsability lies with the end user. 
 
