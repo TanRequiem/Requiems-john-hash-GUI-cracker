@@ -19,7 +19,8 @@ Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team
 
 [John the ripper](https://www.openwall.com/john/)
 
-[John the ripper ALT](https://github.com/openwall/john)
+(Optional)
+[John the ripper - ALT](https://github.com/openwall/john)
 
 ## The Dev Journey
 - The Prototype: This began as a Python script. I used Claude AI to help generate the initial logic and prototype the features quickly. I've included the original Python version in this repo for those interested in the evolution.
