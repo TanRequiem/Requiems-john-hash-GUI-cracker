@@ -7,7 +7,7 @@ This tool was made for legal, educational, and authorized Security testing purpo
 
 - The end user assumes all Responsability for their actions and the author is not liable for any misuse, damages, or legal consequences Resulting from the use of this software.
 
-# ===============================================
+# _
 # Project overview
 
 hi, Tanner here, This idea was originaly made as a utility tool for my Cyberleage team, this project evolved into a Full C++ Gui application. the goal was to provide a streamlined GUI for hashcat and john the ripper (Password Security Auditing)
