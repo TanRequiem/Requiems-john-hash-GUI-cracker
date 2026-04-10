@@ -23,7 +23,7 @@ Find a bug? If something isn't working or you see a way to optimize the C++ logi
 
 Let's Collaborate: I’m always looking to learn how to make code more efficient and secure. I’ll likely use your feedback to jump back into a session with Claude to figure out the best way to implement your suggestions.
 
-## and because i'm antisocial and somewhat autistic,Comunication skills isn't something i'm good at, so i had Gemini's help writing out this Readme.
+### and because i'm antisocial and somewhat autistic,Comunication skills isn't something i'm good at, so i had Gemini's help writing out this Readme.
 
 Happy cracking!
 — Tanner
