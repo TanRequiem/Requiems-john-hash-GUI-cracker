@@ -20,6 +20,7 @@ Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team
 [John the ripper](https://www.openwall.com/john/)
 
 (Optional)
+
 [John the ripper - ALT](https://github.com/openwall/john)
 
 ## The Dev Journey
