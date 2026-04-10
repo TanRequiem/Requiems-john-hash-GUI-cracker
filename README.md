@@ -1,6 +1,6 @@
 # Requiems-John-Hash-GUI-Cracker
 ## Disclaimer & Legal Agreement
-This tool was created for legal, educational, and authorized security testing purposes. By using this software, you agree to the following terms:
+This tool was created for legal, educational, and authorized security testing purposes. By using/Downloading this software, you agree to the following terms:
 
 - Lawful Use Only: You will NOT use this tool for any illegal or malicious activities, including unauthorized access to systems, phishing, or data theft.
 
