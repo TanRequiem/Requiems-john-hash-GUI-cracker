@@ -14,7 +14,7 @@ You are responsible for how you use this tool. The author is not responsible if 
 
 ## Project Overview
 
-Hi I'm Tanner. I made this project for my CyberLeague team. It started as an utility and became a full C++ GUI application. The goal is to make it easy to use Hashcat and John the Ripper for password security auditing.
+Hi I'm Tanner. I made this project for my CyberLeague team. It started as a side utility and became a full C++ GUI application. The goal is to make it easy to use Hashcat and John the Ripper for password security auditing.
 
 Note: You need to download hashcat and john until we add our hash and password cracker.. The creators of the tool can help me add them to the system.
 
