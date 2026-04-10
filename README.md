@@ -13,6 +13,14 @@ This tool was created for legal, educational, and authorized security testing pu
 ## Project Overview
 Hi, I'm Tanner. This project started as a simple utility for my CyberLeague team and evolved into a full C++ GUI application. The goal is to provide a streamlined, user-friendly interface for Hashcat and John the Ripper, making password security auditing more accessible.
 
+## Required Dependencys:
+
+[Hashcat](https://hashcat.net/hashcat/)
+
+[John the ripper](https://www.openwall.com/john/)
+
+[John the ripper ALT](https://github.com/openwall/john)
+
 ## The Dev Journey
 - The Prototype: This began as a Python script. I used Claude AI to help generate the initial logic and prototype the features quickly. I've included the original Python version in this repo for those interested in the evolution.
 
