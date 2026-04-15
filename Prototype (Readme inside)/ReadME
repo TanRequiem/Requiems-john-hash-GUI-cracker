@@ -1,0 +1,23 @@
+Python Prototype (Old)
+Caution
+This is the original Python prototype version of the application. It serves for historic purposes and for users who want to work with Python script files. This should only be used for debugging purposes.
+
+Note: The C++ version is the actual application that runs much faster and efficiently.
+
+Compatibilities and Installation Requirements
+Windows Users: It is highly advised to use the C++ version. Make sure you have hashcat and john installed in your computer and saved in the folder.
+
+Linux Users: This was initially coded and tested in Linux Mint (6.8.0 Kernel).
+
+AI Credit: The Python script used here was mostly written by AI but mapped out by me for the logic flow for transitioning into C++.
+
+System Requirements Recommended
+For password cracking, you need a powerful system in order to crack more passwords within seconds. Below are the recommended specs:
+
+CPU: 4-core processor
+
+RAM: 4 GB
+
+Storage: 100 GB (for wordlist/logging)
+
+GPU: NVIDIA GTX 1060+
